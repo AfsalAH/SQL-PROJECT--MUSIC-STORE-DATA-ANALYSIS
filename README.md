@@ -1,8 +1,10 @@
 # SQL-PROJECT--MUSIC-STORE-DATA-ANALYSIS
 This SQL project focuses on analyzing a fictional music store database using PostgreSQL. The project demonstrates proficiency in SQL and the ability to extract valuable insights from a complex dataset.
-# Database and Tools
-*Postgre SQL
-*PgAdmin4
+# Database and Tools 
+
+      *Postgre SQL
+      
+      *PgAdmin4
 
 
 
